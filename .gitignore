@@ -1,4 +1,11 @@
+#Java
 /bin/
-/src/mochi/data/
+
+#Eclipse
 /.settings/
+
+#Experimental data
+/src/mochi/data/
+
+#JavaFX SDK
 /javafx-sdk-11.0.2/
